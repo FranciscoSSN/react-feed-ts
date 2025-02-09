@@ -14,3 +14,7 @@ Desenvolvido para praticar os conceitos e fundametos iniciais do React com TypeS
 - TypeScript
 - @phosphor-icons/react
 - date-fns
+
+# Para rodar o Projeto escreva esses comandos no terminal:
+- npm i
+- npm run dev
