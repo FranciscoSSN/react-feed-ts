@@ -1,5 +1,5 @@
 # Projeto React Feed
-Desenvolviedo para praticar os conceitos e fundametos iniciais do React com TypeScript como:
+Desenvolvido para praticar os conceitos e fundametos iniciais do React com TypeScript como:
 - Componentes;
 - Propriedades;
 - Estado (useState)
